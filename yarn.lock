@@ -12330,10 +12330,10 @@ yarn-audit-fix@^6.3.5:
     synp "^1.9.7"
     tslib "^2.3.0"
 
-yarn@^1.22.10:
-  version "1.22.10"
-  resolved "https://registry.npmjs.org/yarn/-/yarn-1.22.10.tgz"
-  integrity sha512-IanQGI9RRPAN87VGTF7zs2uxkSyQSrSPsju0COgbsKQOOXr5LtcVPeyXWgwVa0ywG3d8dg6kSYKGBuYK021qeA==
+yarn@^1.22.18:
+  version "1.22.18"
+  resolved "https://registry.yarnpkg.com/yarn/-/yarn-1.22.18.tgz#05b822ade8c672987bab8858635145da0850f78a"
+  integrity sha512-oFffv6Jp2+BTUBItzx1Z0dpikTX+raRdqupfqzeMKnoh7WD6RuPAxcqDkMUy9vafJkrB0YaV708znpuMhEBKGQ==
 
 yeast@0.1.2:
   version "0.1.2"
