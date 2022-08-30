@@ -11851,10 +11851,10 @@ vue-beautiful-chat@^2.5.0:
     msgdown "^1.0.2"
     v-tooltip "^2.0.1"
 
-vue-cal@^3.10.1:
-  version "3.10.1"
-  resolved "https://registry.npmjs.org/vue-cal/-/vue-cal-3.10.1.tgz"
-  integrity sha512-nAfAA0wrxXB0c/7BU9Kluq5h5r1bTh7XfAUTDDgPPNcwhZDt5Fz9WPho72TlOhBxZRdaTWYvU+HeP2AJw9zJ4A==
+vue-cal@^4.6.0:
+  version "4.6.0"
+  resolved "https://registry.yarnpkg.com/vue-cal/-/vue-cal-4.6.0.tgz#6fe36406c4ec785d0404a09023d9f2eaf87bffc5"
+  integrity sha512-EJxxQ9vtHl3yivuKVqViXDFZ6bHeozJudr4us0mZi69EKDosLJc98rZ8SXxWsOh0OdnCgg/fUqiyxhafUk0YTA==
 
 vue-chartjs@^3.5.1:
   version "3.5.1"
